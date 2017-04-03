@@ -1,0 +1,12 @@
+{
+  "name": "JavaScriptEs6BrowserSkeleton",
+  "version": "1.0.0",
+  "description": "Java Script Es6 Browser Skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
