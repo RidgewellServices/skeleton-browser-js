@@ -1,7 +1,7 @@
-"use strict"
+import hello from './hello.js';
 
 var sayHello = function () {
-    return "Hello";
+    return hello;
 };
 
 document.getElementById('msgBtn').addEventListener('click', function () {
