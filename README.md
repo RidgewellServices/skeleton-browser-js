@@ -1,0 +1,1 @@
+See [this article](https://ramonaridgewell.wordpress.com/2017/04/10/my-javascript-journey-basic-es6-browser-skeleton/) for a description of how to set up this project.
